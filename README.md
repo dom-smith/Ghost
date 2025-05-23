@@ -7,7 +7,7 @@ It’s perfect for quick AI path visualization, instant‑replay kill‑cams, ra
 lap ghosts, cinematic pre‑vis, physics determinism checks, and rapid
 time‑rewind prototypes.
 
-## Installation
+## Installation
 
 1. **Clone / copy** this repo into your UE project’s `Plugins/` folder  
    (or fork & add as a sub‑module).
