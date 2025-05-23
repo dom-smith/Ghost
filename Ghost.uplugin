@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "Ghost",
+  "Description": "Record and replay actor transforms for quick in‑editor or runtime ghost replays.",
+  "Category": "Tools",
+  "CreatedBy": "Dom",
+  "Modules": [
+    {
+      "Name": "Ghost",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
